@@ -129,7 +129,18 @@ secrets.json
 # Database
 *.db
 *.sqlite
+*.sqlite3
 
 # Logs
 logs/
 *.log
+
+# Large binary files and assets
+*.zip
+fitnessapp-assets.zip
+
+# Documentation and draft files
+*.docx
+*.pdf
+docs/*.docx
+docs/*.pdf
